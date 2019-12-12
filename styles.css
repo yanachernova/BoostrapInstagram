@@ -1,0 +1,112 @@
+
+.navbar .navbar-brand span{
+	color: grey;
+	font-family: 'Amaranth', sans-serif;
+}
+
+i{
+	color: grey;
+	
+}
+
+
+.dropdown-toggle:after{
+	color:grey;
+
+}
+
+.fa {
+	color: grey;
+}
+
+.modal-body {
+	padding-bottom:0;
+
+}
+
+.coolbtn{
+	width: 25%;
+	background-color: white;
+	margin-top: 4px;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	border-radius: 5px;
+}
+
+.newbtn {
+	border: none;
+
+}
+
+.coolicn:hover {
+  color: white;
+}
+
+.twobtn{
+	margin: 4px;
+}
+
+.newbgc{
+background-color: #e6e6e6;
+
+
+}
+
+
+h6{
+	padding-left: 8px;
+	
+}
+
+#lineshit, #inlineshit{
+	display: inline-block;
+	padding-top: 5px;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#inlineshit{
+	float: right;
+	color: grey;
+	font-weight: 6px;
+	margin-right: 5px;
+	font-size: 14px;
+}
+
+.mybox{
+	margin-bottom: 10px;
+}
+
+#commentbellow, #weirdsign{
+	display: inline-block;
+	padding-top: 5px;
+	text-align: center;
+	margin-bottom: 5px;
+	color: grey;
+	font-size: 14px;
+
+}
+
+#weirdsign{
+	float: right;
+	margin-right: 15px;
+	font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

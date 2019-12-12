@@ -1,0 +1,70 @@
+
+.navbar .navbar-brand span{
+	color: grey;
+	font-family: 'Amaranth', sans-serif;
+}
+
+i{
+	color: grey;
+	
+}
+
+
+.dropdown-toggle:after{
+	color:grey;
+
+}
+
+.fa {
+	color: grey;
+}
+
+.modal-body {
+	padding-bottom:0;
+
+}
+
+.coolbtn{
+	width: 25%;
+	background-color: white;
+	margin-top: 4px;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	border-radius: 5px;
+}
+
+.newbtn {
+	border: none;
+
+}
+
+.coolicn:hover {
+  color: white;
+}
+
+.twobtn{
+	margin: 4px;
+}
+
+.newbgc{
+background-color: #e6e6e6;
+margin-right: -20px;
+margin-left: 1px;
+
+
+}
+
+body{
+	background-color: #e6e6e6;
+}
+
+.twobtn {
+	background-color: white;
+}
+
+.yana{
+	background-color: white;
+	width: 100%;
+}
+
+
